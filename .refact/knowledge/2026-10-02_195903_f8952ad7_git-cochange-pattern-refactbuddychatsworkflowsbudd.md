@@ -6,7 +6,7 @@ tags:
 - git
 - pattern
 created: 2026-10-02
-updated: 2026-10-03
+updated: 2026-10-05
 filenames:
 - .refact/buddy/chats/workflows/buddy_docs_gardener.json
 - .refact/buddy/chats/workflows/buddy_idle_suggester.json
@@ -15,7 +15,7 @@ kind: pattern
 status: proposed
 superseded_by: null
 deprecated_at: null
-review_after: 2026-10-03
+review_after: 2026-10-05
 source_chat_id: null
 created_at: 2026-10-02T14:29:03.135490+00:00
 summary: null
